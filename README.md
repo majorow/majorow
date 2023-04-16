@@ -1,28 +1,28 @@
-### Образование высшее:
-- Самарский государственный университет путей сообщения, специализация: Организация перевозок и управление на железнодорожном транспорте
-### Дополнительное образование:
-- Университет искусственного интеллекта, программа: Data Science, нейронные сети, машинное обучение и искусственный интеллект
-- Дальневосточный федеральный университет, программа: Интерактивный тренажер по SQL
-- Bioinformatics Institute, программа: Основы статистики
-- Практикум по математике и Python от Алексея Задойного
-- IBM: Анализ данных с использованием Python
-- Yale University: The Global Financial Crisis
-- ООО "ПентестИТ", Этичный хакинг и тестирование на проникновение
-### Стажировка:
-- MindSet: Подсчет окон в зданиях по фотографиям
-- СК Самолет: Наличие спецодежды и подсчет входящих выходящих работников на КПП
-### О себе:
-- Более 20 лет проработал в сфере IT.
-### Ключевые навыки
-#### Фундаментальные:
-- Администрирование Linux (Centos, Ubuntu, Gentoo), Windows (начиная с 3.11 до 10)
-- Проектирование, построение и обслуживание компьютерных сетей (TCP/IP)
-- Администрирование баз данных (MS SQL, Oracle, PostgeSQL, MySQL)
-- Виртуализация и контейнеры (Docker)
-- SQL (MySQL, PostgreSQL, Oracle)
-- Основы статистки
-- Линейная алгебра и матанализ
-#### Прикладные:
+# Education:
+- Samara State University of Railway Transport, specialization: Organization of transportation and management of railway transport.
+# Additional education:
+- University of Artificial Intelligence: Data Science, Neural Networks, Machine Learning and Artificial Intelligence;
+- Far Eastern Federal University: Interactive SQL Simulator;
+- Bioinformatics Institute: Fundamentals of Statistics;
+- Practical course in mathematics and Python by Alexey Zadoiny;
+- IBM: Data Analysis using Python;
+- Yale University: The Global Financial Crisis;
+- PentestIT LLC, Ethical hacking and penetration testing.
+# Internship:
+- MindSet: Counting windows in buildings by photos;
+- CC Samolet: Availability of workwear and counting of incoming and outgoing workers at the checkpoint.
+# About me:
+- He has worked IT for more than 20 years.
+# Skils
+## Fundamental:
+- Fundamentals of Statistics;
+- Linear algebra and mathematical analysis;
+- SQL (MySQL, PostgreSQL, Oracle);
+- Database Administration (MS SQL, Oracle, PostgeSQL, MySQL);
+- Linux Administration (Centos, Ubuntu, Gentoo), Windows (starting from 3.11 to 10);
+- Ethical hacking and penetration testing;
+- Networks (TCP/IP), virtualization and containers (Docker)
+# Prof:
 - Python 3, IPython, Jupyter Notebook
 - Keras, tensorflow, pytorch
 - matplotlib, numpy, pandas, cv2, ultralytics (YOLOv8)
