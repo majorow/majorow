@@ -8,9 +8,6 @@
 - IBM: Data Analysis using Python;
 - Yale University: The Global Financial Crisis;
 - PentestIT LLC, Ethical hacking and penetration testing.
-# Internship:
-- MindSet: Counting windows in buildings by photos;
-- CC Samolet: Availability of workwear and counting of incoming and outgoing workers at the checkpoint.
 # About me:
 - He has worked IT for more than 20 years.
 # Skils
