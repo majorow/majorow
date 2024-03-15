@@ -15,11 +15,10 @@
 - Fundamentals of Statistics;
 - Linear algebra and mathematical analysis;
 - SQL (MySQL, PostgreSQL, Oracle);
-- Database Administration (MS SQL, Oracle, PostgeSQL, MySQL);
-- Linux Administration (Centos, Ubuntu, Gentoo), Windows (starting from 3.11 to 10);
 - Ethical hacking and penetration testing;
 - Networks (TCP/IP), virtualization and containers (Docker)
 # Prof:
 - Python 3, IPython, Jupyter Notebook
 - Keras, tensorflow, pytorch
 - matplotlib, numpy, pandas, cv2, ultralytics (YOLOv8)
+- git
